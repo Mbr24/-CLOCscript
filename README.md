@@ -7,5 +7,5 @@ cloc counts blank lines, comment lines, and physical lines of source code in man
 https://github.com/AlDanial/cloc
 
 Before executing the script:
-1. login and password for send emails using gmail
+1. insert login, password, email to and email from for sending emails using gmail
 2. a file to scan
